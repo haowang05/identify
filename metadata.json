@@ -1,0 +1,7 @@
+{
+  "name": "Identity Fragmentor",
+  "description": "An interactive art installation exploring algorithmic bias and ontological identity through facial recognition and generative AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
